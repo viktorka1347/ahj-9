@@ -1,4 +1,4 @@
-import CollapseWidget from './task/CollapseWidget';
+import CollapseWidget from './task1/CollapseWidget';
 
 
 const collapseWidget = new CollapseWidget(
